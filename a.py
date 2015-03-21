@@ -1,1 +1,2 @@
-str = 1
+str = "life"
+print "this is life"
