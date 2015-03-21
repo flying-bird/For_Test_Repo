@@ -1,5 +1,5 @@
 str='b'
 
 def fun():
-	count = 0
+	count = 'b'
 	print "b"
